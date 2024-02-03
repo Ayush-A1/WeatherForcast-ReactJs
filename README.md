@@ -2,7 +2,7 @@
 
 A simple weather application built with React and Redux, utilizing the OpenWeatherMap API to provide current weather details and a 5-day forecast for different cities.
 
-[Demo Link](https://main--phenomenal-florentine-78a1d7.netlify.app/)
+[Demo Link](weatherappa1.netlify.app)
 
 ## Table of Contents
 - [Features](#features)
